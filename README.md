@@ -1,4 +1,13 @@
-# pluvia compatibility list
+# Pluvia compatibility list
+
+Game compatibility list for [Pluvia](https://github.com/oxters168/Pluvia/tree/master) created by [oxters168](https://github.com/oxters168) 
+
+Credit to [Retro Game Corps](https://www.youtube.com/@RetroGameCorps) for testing most of these games!
+
+**NOTE**: These games were tested on:
+- Retroid Pocket 5 (Snapdragon 865)
+- AYN Odin 2 Portal (Snapdragon 8 Gen 3)
+- AYANEO Pocket EVO
 
 | Game  | Working? | Issues?
 | ------------- | ------------- |--------------
